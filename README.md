@@ -1,4 +1,4 @@
-# ECON323_FINAL-PROJECT
+# ECON323 FINAL PROJECT
 
 ## Final Project of ECON323, course associated with the Vancouver School of Economics(VSE) at the University of British Columbia.
 
